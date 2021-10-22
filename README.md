@@ -23,7 +23,7 @@ Made by:
 - Build a 2-layer Neuro network
 - Evolution of the loss function for both **training** and **validation sets**
 
-<img src="C:\Users\nwy13\AppData\Roaming\Typora\typora-user-images\image-20211019231403293.png" alt="image-20211019231403293" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/mm0806son/Images/main/202110221431226.png" style="zoom:50%;" />
 
 ## TP4
 
