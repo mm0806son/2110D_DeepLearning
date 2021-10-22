@@ -9,3 +9,8 @@ data/MNIST/raw/train-images-idx3-ubyte
 data/MNIST/raw/train-images-idx3-ubyte.gz
 data/MNIST/raw/train-labels-idx1-ubyte
 data/MNIST/raw/train-labels-idx1-ubyte.gz
+*.gz
+deepl_Aziz/data/MNIST/raw/train-labels-idx1-ubyte
+deepl_Aziz/data/MNIST/raw/train-images-idx3-ubyte
+deepl_Aziz/data/MNIST/raw/t10k-labels-idx1-ubyte
+deepl_Aziz/data/MNIST/raw/t10k-images-idx3-ubyte
