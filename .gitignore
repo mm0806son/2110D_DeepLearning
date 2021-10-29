@@ -18,3 +18,11 @@ deepl_others/data/MNIST/raw/train-labels-idx1-ubyte
 deepl_others/data/MNIST/raw/train-images-idx3-ubyte
 deepl_others/data/MNIST/raw/t10k-labels-idx1-ubyte
 deepl_others/data/MNIST/raw/t10k-images-idx3-ubyte
+deepl_others/LabSession5-CNN_Fashion-MNIST_exemple.ipynb
+deepl_others/lab_session_4_CNN_MNIST_david.ipynb
+deepl_others/lab-session-4-CNN-MNIST_Aziz.ipynb
+deepl_others/lab-session-3-MLP-MNIST_Aziz.ipynb
+data/FashionMNIST/raw/train-labels-idx1-ubyte
+data/FashionMNIST/raw/train-images-idx3-ubyte
+data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+data/FashionMNIST/raw/t10k-images-idx3-ubyte
