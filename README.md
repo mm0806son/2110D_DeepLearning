@@ -33,3 +33,24 @@ Made by:
 
 - CNN
 
+
+
+## TP5
+
+2021/10/29
+
+Fashion-MNIST dataset
+
+- data loader
+
+- MLP
+
+- CNN
+
+- Transfer learning with vgg-16
+
+  **Accuracy: 93.71%**
+
+  Pretrained VGG16 with lr = 0.01, epoch = 7, 
+  Normalize((0.485, 0.456, 0.406), (0.229, 0.224, 0.225))
+
