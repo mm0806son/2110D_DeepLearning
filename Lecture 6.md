@@ -27,12 +27,23 @@
 
 - Different RNN architectures (GRU, LSTM) and interests
 
+  - LSTM Invented on 1997
+
+    
+
+  - GRU: Gated Recurrent Units 41:19 Video Lecture 9
+
+    Invented on 2014
+
+    Control the memory rate by a parametre.
+
+    > We choose to use Gated Recurrent Unit (GRU) (Cho et al., 2014) in our experiment since it performs similarly to LSTM (Hochreiter \& Schmidhuber, 1997) but is computationally cheaper.
+
+  
+
 - Case studies (language, time series forecasting)
 
 - Vidéo: https://www.youtube.com/watch?v=Keqep_PKrY8&t=14s
 
 - Chapter 10 Goodfellow et al.: https://www.deeplearningbook.org/contents/rnn.html
 
-
-
-- 
