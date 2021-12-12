@@ -26,3 +26,6 @@ data/FashionMNIST/raw/train-labels-idx1-ubyte
 data/FashionMNIST/raw/train-images-idx3-ubyte
 data/FashionMNIST/raw/t10k-labels-idx1-ubyte
 data/FashionMNIST/raw/t10k-images-idx3-ubyte
+.vscode/settings.json
+HelloWorld.ipynb
+HelloWorld.py
