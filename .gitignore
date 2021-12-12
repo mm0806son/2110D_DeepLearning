@@ -29,3 +29,4 @@ data/FashionMNIST/raw/t10k-images-idx3-ubyte
 .vscode/settings.json
 HelloWorld.ipynb
 HelloWorld.py
+*.pptx
