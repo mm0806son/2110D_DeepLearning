@@ -16,7 +16,7 @@ Thesis Reproduction and application: [Realtime Multi-Person 2D Pose Estimation u
 **Main Activities:**
 
 - Read the paper to understand the mathematical principles and network structure.
-- Read the code and understand the principle functions.
+- Read the code and understand the main functions.
 - Development of new applications based on experimental conditions.
 
 **Our own applications:**
