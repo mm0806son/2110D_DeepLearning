@@ -35,7 +35,7 @@ Thesis Reproduction and application: [Realtime Multi-Person 2D Pose Estimation u
 
     <img src="https://raw.githubusercontent.com/mm0806son/2110D_DeepLearning/main/Projet/RT-multiperson-pose-pytorch/readme/Authors_skeleton_nobg.png?token=ART4NBMIHFUDVHEAJZRQLUTBWXEVU" style="zoom:50%;" />
 
-- Processing video
+- Processing [video](https://github.com/mm0806son/2110D_DeepLearning/raw/main/Projet/RT-multiperson-pose-pytorch/readme/Authors_v2_result.mp4)
 
 - Use Google Colab to call a local webcam and process the images
 
